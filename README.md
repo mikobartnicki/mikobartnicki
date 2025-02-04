@@ -2,4 +2,4 @@
 
 ### _Separating content from presentation is the only sufficient reason to use tabs for source code indentation. This alone makes any further discussion on this topic entirely redundant._
 
-[Most used programming language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=mikobartnicki&langs_count=20)
+[Statistics of the programming languages I use most often](https://github-readme-stats.vercel.app/api/top-langs/?username=mikobartnicki&langs_count=20)
